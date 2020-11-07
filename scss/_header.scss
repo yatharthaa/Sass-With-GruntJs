@@ -1,0 +1,27 @@
+body {
+	padding: 90px;
+	margin: 0;
+	
+}
+header {
+	ul {
+		margin: 0;
+		padding: 10px 0;
+		background: lightblue;
+		list-style: none;
+		display: flex;
+		-webkit-justify-content: center;
+		justify-content: center;
+		-webkit-align-items: center;
+		align-items: center;
+		li a {
+			color: #fff;
+			font-size: 20px;
+			font-weight: bold;
+			text-transform: capitalize;
+			padding: 20px 40px;
+			text-decoration: none;
+		}
+	}
+
+}
